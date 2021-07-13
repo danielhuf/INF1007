@@ -1,0 +1,11 @@
+78 MAT1182 4.3 Andre Romeu
+91 INF1012 4.8 Joana Costa
+140 MAT1182 6.8 Joao Barbosa
+192 INF1007 7.0 Gabriela Cardoso
+260 MAT1182 3.3 Jorge Albuquerque
+266 INF1012 9.4 Matheus Rocha
+324 INF1012 5.9 Mario Antonio
+375 MAT1182 8.7 Carla Abreu
+400 MAT1182 7.5 Marcos Cavalcanti
+413 INF1007 9.0 Alan Silva
+432 INF1012 5.2 Tomas Miranda
